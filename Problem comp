@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T19:24:26.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="Ntb2XO8el87T6OWu4qHa" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-29T19:36:23.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="j14imt1ufVzBe3ZpSL4p" version="21.2.3" type="github" pages="2">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1104" dy="1248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,6 +167,77 @@
         </mxCell>
         <mxCell id="77e6c97f196da883-24" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-7" vertex="1">
           <mxGeometry x="30" y="640" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IHsO83uVQpAiG-nn3nd3" name="Página-2">
+    <mxGraphModel dx="789" dy="1291" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9pRsikdvu7wVezTXvsrH-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.506;entryY=-0.065;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="MxIrKSi8x-BzLMUrhf6l-1" target="9pRsikdvu7wVezTXvsrH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxIrKSi8x-BzLMUrhf6l-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="58" y="-182" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-1" value="Fim" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="56" y="641" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9pRsikdvu7wVezTXvsrH-2" target="9pRsikdvu7wVezTXvsrH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-2" value="num1 ( inteiro)" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="53.5" y="80" width="125" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9pRsikdvu7wVezTXvsrH-3" target="9pRsikdvu7wVezTXvsrH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-3" value="&quot;digite um numero inteiro&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="39" y="-63" width="154" height="92.4" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9pRsikdvu7wVezTXvsrH-6" target="9pRsikdvu7wVezTXvsrH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-6" value="num2 ( inteiro)" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="53.5" y="333" width="125" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9pRsikdvu7wVezTXvsrH-8" target="9pRsikdvu7wVezTXvsrH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-8" value="&quot;digite um numero inteiro&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="39" y="190" width="154" height="92.4" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9pRsikdvu7wVezTXvsrH-10" target="9pRsikdvu7wVezTXvsrH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-10" value="Soma=(num1+num2)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="56" y="447" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9pRsikdvu7wVezTXvsrH-12" target="9pRsikdvu7wVezTXvsrH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-12" value="Soma" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="64" y="542" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-15" value="Print(&quot;Digite um numero&quot;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-24" width="248.76" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-16" value="num1 = int(input())" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="309" y="106.5" width="248.76" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-17" value="Print(&quot;Digite outro numero&quot;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="304.5" y="242" width="248.76" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-18" value="num2 = int(input())" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="313.5" y="372.5" width="248.76" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-19" value="Soma =num1+num2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="304.5" y="464" width="248.76" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="9pRsikdvu7wVezTXvsrH-20" value="print(soma)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="313.5" y="565" width="248.76" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
